@@ -1,0 +1,33 @@
+[{
+        "ten": "Le Quan Huy Hoang",
+        "tuoi": 22,
+        "lapTrinh": 8,
+        "tiengAnh": 8,
+        "thietKeWeb": 9,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": { "email": "hoang@gmail.com", "phone": "0999.999.999" }
+    },
+
+    {
+        "ten": "Thai Viet Thanh",
+        "tuoi": 22,
+        "lapTrinh": 8,
+        "tiengAnh": 10,
+        "thietKeWeb": 7,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": { "email": "thanh@gmail.com", "phone": "0999.888.888" }
+    },
+
+    {
+        "ten": "Nguyen Bao Viet",
+        "tuoi": 22,
+        "lapTrinh": 9,
+        "tiengAnh": 8,
+        "thietKeWeb": 6,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": { "email": "viet@gmail.com", "phone": "0999.777.777" }
+    }
+]
